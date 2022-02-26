@@ -1,0 +1,48 @@
+import java.util.Scanner;
+
+
+public class DateTime {
+
+    public static void main() {
+
+        Scanner in = new Scanner(System.in); 
+        System.out.println("Enter Date");
+        int date = in.nextInt();
+        System.out.println("Enter Month");
+        int Month = in.nextInt();
+        System.out.println("Enter Year");
+        int year = in.nextInt();  
+
+        if(Month == 1 || Month == 3 || Month ==  5 || Month == 7 || Month == 8 || Month == 10)
+        {
+        if(date == 31)
+            {Month = Month + 1;}
+        else
+            {date = date + 1;}
+        }
+        else if(Month == 2)
+        {
+        if(date == 29)
+                {Month = Month + 1;}
+        else
+            {date = date + 1;}
+        }
+        else if(Month == 12)
+        {
+        if(date == 31)
+            {year = year + 1;}
+        else
+            {date = date +1;}
+        }
+        else
+        {
+        if(date == 30)
+            {Month = Month + 1;}
+        else
+            {date = date + 1;}
+        }
+
+        System.out.println("Next Day is : " + date + "/" + Month + "/" + year);      
+    }
+
+}
