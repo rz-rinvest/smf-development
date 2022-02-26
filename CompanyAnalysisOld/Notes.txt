@@ -1,0 +1,13 @@
+['ticker', 'totalStockholderEquity', 'netTangibleAssets', 'intangibleAssets', 'totalLiab', 'minorityInterest', 'otherCurrentLiab', 'totalAssets', 'commonStock', 'otherCurrentAssets', 'otherLiab', 'goodWill', 'treasuryStock', 'otherAssets', 'cash', 'totalCurrentLiabilities', 'deferredLongTermAssetCharges', 'otherStockholderEquity', 'propertyPlantEquipment', 'totalCurrentAssets', 'longTermInvestments', 'shortTermInvestments', 'netReceivables', 'longTermDebt', 'inventory', 'accountsPayable', 'capitalSurplus', 'retainedEarnings', 'shortLongTermDebt', 'netIncome', 'changeToLiabilities', 'researchDevelopment', 'effectOfAccountingCharges', 'incomeBeforeTax', 'sellingGeneralAdministrative', 'grossProfit', 'ebit', 'operatingIncome', 'otherOperatingExpenses', 'interestExpense', 'extraordinaryItems', 'nonRecurring', 'otherItems', 'incomeTaxExpense', 'totalRevenue', 'totalOperatingExpenses', 'costOfRevenue', 'totalOtherIncomeExpenseNet', 'discontinuedOperations', 'netIncomeFromContinuingOps', 'netIncomeApplicableToCommonShares', 'deferredLongTermLiab', 'investments', 'totalCashflowsFromInvestingActivities', 'netBorrowings', 'totalCashFromFinancingActivities', 'changeToOperatingActivities', 'changeInCash', 'effectOfExchangeRate', 'totalCashFromOperatingActivities', 'depreciation', 'otherCashflowsFromInvestingActivities', 'dividendsPaid', 'changeToInventory', 'changeToAccountReceivables', 'otherCashflowsFromFinancingActivities', 'changeToNetincome', 'capitalExpenditures', 'repurchaseOfStock', 'issuanceOfStock']
+
+
+Percentage on col 3mo = 90.75
+6MP = 91.5
+
+dividend details
+dividend growth rate
+
+1yfScGedLauGgDMK_jGH2MrfGDaGfZDDYDSQ-e60fNRA/edit#gid=2044274207
+https://docs.google.com/spreadsheets/d/16Eo0Iod-EqeHbIq-YyVIRu8MW6y1TjE43Wq__6tQxyE/edit
+https://docs.google.com/spreadsheets/d/1ZZMstZYXke2kweT-By4XWFh4iuVHbpu355-Yg0iQHiU/edit#gid=617612602
+https://docs.google.com/spreadsheets/d/1ZZMstZYXke2kweT-By4XWFh4iuVHbpu355-Yg0iQHiU/edit#gid=617612602

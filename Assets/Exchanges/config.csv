@@ -1,0 +1,4 @@
+Exchanges,Type,Open Time,Close Time ,WeekDays
+Binance,Crypto,00:00:00,23:59:59,"0,1,2,3,4,5,6"
+Kraken,Crypto,00:00:00,23:59:59,"0,1,2,3,4,5,6"
+NSE,Stocks,09:00:00,15:00:00,"0,1,2,3,4"

@@ -1,0 +1,4 @@
+key,value
+Current Operation,Processed
+YF Model Creation Output Function,"function->Change(rowvar->newdate,rowvar->futuredate,function->Databasename(rowvar->ticker))"
+Present YF Date,02
